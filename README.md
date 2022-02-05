@@ -1,1 +1,1 @@
-This is an implementation for brian tumor segmentation using keras.
+This is an implementation for brain tumor segmentation using pytorch. I used a small UNet for my work.
